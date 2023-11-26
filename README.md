@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Banner](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png) -->
+![Banner](https://github.com/mafazann/mafazann/blob/main/BannerMafazann.png)
 
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Animated_pink_cat.gif" width = 330px></picture>
 
