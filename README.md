@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Banner](https://raw.githubusercontent.com/mafazann/mafazann/main/banner.jpg)
-
-<picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Animated_pink_cat.gif" width = 330px></picture>
 <picture> <img align="right" src="https://img1.picmix.com/output/stamp/normal/5/7/9/2/1792975_fe034.gif" width = 330px></picture>
 
 <h3 align="left">Languages and Tools That I Know:</h3>
